@@ -1,0 +1,3 @@
+https://github.com/heriabdian/PraktikTCC/tree/master/minggu-04
+
+Proses Bisnis sebagai Layanan (BPaaS) adalah segala jenis proses bisnis horizontal atau vertikal yang dikirimkan berdasarkan pada model layanan cloud

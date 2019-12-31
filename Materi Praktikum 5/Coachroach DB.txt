@@ -1,0 +1,4 @@
+https://github.com/heriabdian/PraktikTCC/tree/master/minggu-05
+
+
+CockroachDB adalah proyek yang dirancang untuk menyimpan salinan data di banyak lokasi untuk memberikan akses cepat.
